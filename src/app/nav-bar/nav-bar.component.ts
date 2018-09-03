@@ -12,4 +12,8 @@ export class NavBarComponent implements OnInit {
   ngOnInit() {
   }
 
+  logeo(){
+   alert("Hello World!");
+   console.log('Hey estoy logeando');
+  }
 }
