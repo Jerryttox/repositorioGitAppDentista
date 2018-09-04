@@ -20,3 +20,6 @@
 .dropdown:hover .dropdown-content {
     display: block;
 }
+.sitck{
+position:sticky
+}
