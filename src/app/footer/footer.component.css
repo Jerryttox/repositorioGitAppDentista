@@ -1,9 +1,14 @@
 .footer {
-    bottom: 0;
+   
     width: 100%;
     text-align: center;
     padding-top: 5px; 
     color:gainsboro; font-size:medium; padding:15px;
+    bottom: 0;
+    position: relative;
+    height: 130px;
+    margin-top: -130px;
+    clear: both;
  }
  .iconos{
     height: 40px; 
