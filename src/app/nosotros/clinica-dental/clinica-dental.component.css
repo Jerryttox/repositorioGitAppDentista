@@ -12,3 +12,7 @@ h3{
     width: 30vw;
     margin-bottom: 15px;
 }
+p::first-letter { 
+    font-size: 25px;
+    color: rgb(8, 101, 241);
+}
